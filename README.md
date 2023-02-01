@@ -1,6 +1,6 @@
 # README
 
-1. Complete Ruby on Rails Developer
+1. Complete Ruby on Rails Developer by Lugisani Muthige
 
 
 This README would normally document whatever steps are necessary to get the
